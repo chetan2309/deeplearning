@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://chetan2309.github.io/deeplearning/sitemap.xml
