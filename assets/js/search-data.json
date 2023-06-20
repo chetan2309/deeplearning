@@ -109,9 +109,6 @@
   
 
   
-  
-
-  
 
   
   
@@ -131,7 +128,7 @@
   
 
   
-      ,"page12": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://chetan2309.github.io/deeplearning/robots.txt",
@@ -139,9 +136,6 @@
           "date": ""
       }
       
-  
-
-  
   
 
 }
